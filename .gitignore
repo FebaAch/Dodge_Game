@@ -19,3 +19,11 @@ DodgeGame.slnx
 .DS_Store
 
 mono_crash.*
+
+
+obj/
+
+
+
+# Crash logs
+mono_crash.*.json
